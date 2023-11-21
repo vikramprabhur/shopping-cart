@@ -1,4 +1,3 @@
-// sumulate getting products from DataBase
 const products = [
   { name: "Apples:", country: "Italy", cost: 3, instock: 10 },
   { name: "Oranges:", country: "Spain", cost: 4, instock: 3 },
